@@ -4,20 +4,21 @@ A directory for free and friendly communities to get eyes on your side projects!
 
 --------------------
 
-## Table of contents
+## Table of Contents  
 
-- [Reddit](#reddit)
-- [Twitter/X](#twitter)
-- [LinkedIn](#linkedin)
-- [Hacker News](#hackernews)
-- [Product Hunt](#producthunt)
-- [Indie Hackers](#indiehackers)
-- [Dev.to](#devto)
-- [BetaList](#betalist)
-- [Showcase Platforms](#showcaseplatforms)
-- [Niche Communities](#nichecommunities)
-- [Launch Platforms](#launchplatforms)
-- [Forums & Slack Groups](#forumsandslack)
+- [Reddit](#reddit)  
+- [Twitter/X](#twitterx)  
+- [LinkedIn](#linkedin)  
+- [Hacker News](#hacker-news)  
+- [Product Hunt](#product-hunt)  
+- [Indie Hackers](#indie-hackers)  
+- [Dev.to](#devto)  
+- [BetaList](#betalist)  
+- [Showcase Platforms](#showcase-platforms)  
+- [Niche Communities](#niche-communities)  
+- [Launch Platforms](#launch-platforms)  
+- [Forums & Slack Groups](#forums--slack-groups)  
+- [Other Launch and Exposure Resources](#other-launch-and-exposure-resources)  
 
 # Reddit
 * [r/Alphaandbetausers](https://www.reddit.com/r/Alphaandbetausers) - The perfect subreddit to launch on – low expectations, multiple daily posts
