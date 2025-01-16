@@ -89,7 +89,7 @@ A directory for free and friendly communities to get eyes on your side projects!
 
 # Other Launch and Exposure Resources
 * [AppSumo](https://appsumo.com/) - A platform for launching digital products and SaaS businesses to a large audience of entrepreneurs.
-* [BetaTesting](https://www.betateesting.com/) - A site to find beta testers for your app or side project before launch.
+* [BetaTesting](https://www.betatesting.com/) - A site to find beta testers for your app or side project before launch.
 * [Kickstarter](https://www.kickstarter.com/) - A popular crowdfunding platform for physical products or creative projects looking for funding.
 * [Teespring](https://www.teespring.com/) - A platform to create and sell custom merchandise for your side project or brand.
 * [Dribbble](https://dribbble.com/) - A community for creative professionals where you can share design projects and get exposure.
