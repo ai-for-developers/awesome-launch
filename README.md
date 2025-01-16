@@ -33,7 +33,8 @@ A directory for free and friendly communities to get eyes on your side projects!
 * [r/SoftwareAsAService](https://www.reddit.com/r/SoftwareAsAService) - Active subreddit where self promotion is allowed, if you are a SaaS then post here
 * [r/Startup](https://www.reddit.com/r/Startup) - This is a subreddit to bring people together and help startups get help with their business needs
 * [r/Startups](https://www.reddit.com/r/Startups) - “You MAY share your startup in the Monthly Share Your Startup thread”, very active and sharing is encouraged
-
+* [r/WebDev](https://www.reddit.com/r/WebDev) - Minimum karma requirement. Has Showoff Saturdays to post projects and portfolios.
+  
 # Twitter/X
 * [#BuildInPublic](https://twitter.com/hashtag/buildinpublic) - Use this hashtag to showcase the progress of your side project and engage with a community of creators.
 * [#SideProject](https://twitter.com/hashtag/sideproject) - Share your side projects and get feedback from others.
@@ -68,7 +69,6 @@ A directory for free and friendly communities to get eyes on your side projects!
 
 # Niche Communities
 * [Indie Hackers Growth](https://www.indiehackers.com/growth) - A niche group within Indie Hackers focused on sharing and growing small projects.
-* [Designer News](https://www.designernews.co/) - A community for designers, where you can share your design-related side projects and get feedback from other designers.
 * [UX Design](https://www.reddit.com/r/UXDesign/) - A subreddit focused on user experience and design, perfect for launching design-centric projects.
 * [NoCode](https://www.reddit.com/r/NoCode/) - A subreddit dedicated to no-code tools, where you can share your no-code side projects.
 * [ProductHunt Makers](https://www.producthunt.com/makers) - The Product Hunt Makers community where product creators share their work, get feedback, and support each other.
