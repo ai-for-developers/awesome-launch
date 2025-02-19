@@ -2,7 +2,7 @@
 
 A collection of the best blogs, courses, and guides to help you build and scale your startup.
 
-This directory is part of the [Awesome Launch](../README.md) project, a crowdsourced collection of tools and communities for startups, indie makers, and entrepreneurs.
+This directory is part of the [Awesome Launch](./README.md) project, a crowdsourced collection of tools and communities for startups, indie makers, and entrepreneurs.
 
 ---
 

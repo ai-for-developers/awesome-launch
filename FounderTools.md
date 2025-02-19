@@ -2,7 +2,7 @@
 
 **A curated directory of essential tools to help startup founders — build, launch, and grow their products.**  
 
-This directory is part of the **[Awesome Launch](../README.md)** project, a crowdsourced resource for startups, indie developers, and entrepreneurs.  
+This directory is part of the **[Awesome Launch](./README.md)** project, a crowdsourced resource for startups, indie developers, and entrepreneurs.  
 
 ---
 

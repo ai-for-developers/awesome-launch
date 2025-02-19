@@ -2,7 +2,7 @@
 
 **A directory for free and friendly communities to get eyes on your side projects!**
 
-This directory is part of the **[Awesome Launch](../README.md)** project, a crowdsourced directory of resources for startups, indie developers, and entrepreneurs.
+This directory is part of the **[Awesome Launch](./README.md)** project, a crowdsourced directory of resources for startups, indie developers, and entrepreneurs.
 
 ---
 

@@ -2,7 +2,7 @@
 
 A directory of platforms to help startups and entrepreneurs secure funding through venture capital, crowdfunding, and grants.
 
-This directory is part of the [Awesome Launch](../README.md) project, a crowdsourced collection of tools and communities for startups, indie makers, and entrepreneurs.
+This directory is part of the [Awesome Launch](./README.md) project, a crowdsourced collection of tools and communities for startups, indie makers, and entrepreneurs.
 
 ---
 
