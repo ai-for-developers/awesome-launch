@@ -1,9 +1,9 @@
-# 🚀 [Awesome Launch](https://awesome-launch.web.app/) 🚀  
+# 🚀 Awesome Launch
 
 **A curated directory of free and friendly communities to showcase your side projects!**  
 
-✨ **Now available as a [website](https://awesome-launch.web.app/)!** ✨  
-🔍 Enjoy a **better, searchable experience**—check it out!  
+<!-- ✨ **Now available as a [website](https://awesome-launch.web.app/)!** ✨  
+🔍 Enjoy a **better, searchable experience**—check it out!   -->
 
 ---
 
