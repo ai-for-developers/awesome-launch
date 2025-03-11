@@ -30,7 +30,8 @@ Tools to help you develop a product or service.
 - [Bitbucket](https://bitbucket.org/) – Git repository for teams, integrated with Jira.  
 - [Supabase](https://supabase.com/) – Open-source Firebase alternative for backend services.  
 - [Firebase](https://firebase.google.com/) – Scalable backend for authentication, hosting, and database.  
-- [DigitalOcean](https://www.digitalocean.com/) – Cloud hosting for startups with easy deployment.  
+- [DigitalOcean](https://www.digitalocean.com/) – Cloud hosting for startups with easy deployment.
+- [Hoppscotch](https://hoppscotch.io/) - Open source, browser-based API testing.
 
 ## 🎨 Design & Prototyping  
 
