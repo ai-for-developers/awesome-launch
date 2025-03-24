@@ -24,6 +24,7 @@ Learn from successful entrepreneurs and their journeys.
 - **[Indie Hackers Interviews](https://www.indiehackers.com/interviews)** – Real stories from indie makers.
 - **[Starter Story](https://www.starterstory.com/)** – Case studies on how founders built their startups.
 - **[YC Success Stories](https://www.ycombinator.com/library)** – Insights from YC-backed startups.
+- **[The School of Hard Knockz](https://www.instagram.com/theschoolofhardknockz)** - Street interviews with successful entrepreneurs
 
 ---
 
