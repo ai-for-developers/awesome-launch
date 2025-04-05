@@ -49,7 +49,8 @@ No code experience? No problem.
 - [Bubble](https://bubble.io/) – No-code app development platform.  
 - [Zapier](https://zapier.com/) – Automate workflows between different apps.  
 - [Make (Integromat)](https://www.make.com/) – Advanced workflow automation tool.  
-- [Webflow](https://webflow.com/) – No-code website builder with CMS capabilities.  
+- [Webflow](https://webflow.com/) – No-code website builder with CMS capabilities.
+- [n8n](https://n8n.io/) - Powerful automation with AI agents
 
 ## 🌐 Hosting & Deployment  
 
