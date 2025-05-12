@@ -45,6 +45,8 @@ Stay ahead with emerging trends and market research.
 - **[Trends.vc](https://trends.vc/)** – Reports on emerging business trends and successful startups.
 - **[The Hustle](https://thehustle.co/)** – Business and startup news with a fresh take.
 - **[CB Insights](https://www.cbinsights.com/research)** – Data-driven insights into market trends.
+- **[ShipFast](https://shipfa.st/)** - Check out their leaderboards to see startups and verified Stripe revenue.
+- **[IndiePage](https://indiepa.ge/)** - Link tree for entrepreneurs. Also features accurate start-up data.
 
 📢 **Want to contribute?**  
 Submit a pull request or suggest new resources in the issues section!
