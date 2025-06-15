@@ -43,7 +43,8 @@ Visualize your design or MVP.
 - [Figma](https://www.figma.com/) – Collaborative UI/UX design tool.  
 - [Canva](https://www.canva.com/) – Simple design tool for graphics and marketing materials.  
 - [Balsamiq](https://balsamiq.com/) – Quick and easy wireframing tool.  
-- [Adobe XD](https://www.adobe.com/products/xd.html) – UI/UX prototyping and design software.  
+- [Adobe XD](https://www.adobe.com/products/xd.html) – UI/UX prototyping and design software.
+- [Rotato](https://rotato.app/) - Mockup images and movies in minutes. Great for demos.
 
 ## ⚡ No-Code & Automation  
 
