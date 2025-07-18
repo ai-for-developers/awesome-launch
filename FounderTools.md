@@ -35,6 +35,8 @@ Tools to help you develop a product or service.
 - [Convex](https://www.convex.dev/) - Open-source reactive database for app developers.
 - [Xata](https://xata.io/) - Serverless Postgress provider
 - [PlanetScale](https://planetscale.com/) - Serverless MySQL provider
+- [AI For Developers](https://aifordevelopers.org) - Access curated AI SDKs, copilots, and APIs to supercharge your development workflow.
+
 
 ## 🎨 Design & Prototyping  
 
