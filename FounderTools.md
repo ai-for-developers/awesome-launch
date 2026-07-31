@@ -36,6 +36,7 @@ Tools to help you develop a product or service.
 - [Xata](https://xata.io/) - Serverless Postgress provider
 - [PlanetScale](https://planetscale.com/) - Serverless MySQL provider
 - [AI For Developers](https://aifordevelopers.org) - Access curated AI SDKs, copilots, and APIs to supercharge your development workflow.
+- [FreePNGConvert](https://freepngconvert.com/) – Free browser-side WebP to PNG converter. No upload to server, fast, private, unlimited conversions.
 
 
 ## 🎨 Design & Prototyping  
