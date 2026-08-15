@@ -36,6 +36,7 @@ Tools to help you develop a product or service.
 - [Xata](https://xata.io/) - Serverless Postgress provider
 - [PlanetScale](https://planetscale.com/) - Serverless MySQL provider
 - [AI For Developers](https://aifordevelopers.org) - Access curated AI SDKs, copilots, and APIs to supercharge your development workflow.
+- [IdeaHunter](https://ideahunter.today/) - AI research for finding demand-backed app and micro-SaaS ideas before building.
 
 
 ## 🎨 Design & Prototyping  
